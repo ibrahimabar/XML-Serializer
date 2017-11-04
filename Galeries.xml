@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Galeries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListGaleries>
+    <Galery>
+      <GaleryName>Borusan</GaleryName>
+      <GaleryCity>İstanbul</GaleryCity>
+      <GaleryDistrict>Etiler</GaleryDistrict>
+      <CarList>
+        <Car>
+          <CarId>1</CarId>
+          <CarBrand>Mercedes</CarBrand>
+          <CarModel>C200</CarModel>
+          <CarColor>Black</CarColor>
+          <CarPrice>180000</CarPrice>
+        </Car>
+      </CarList>
+    </Galery>
+    <Galery>
+      <GaleryName>Çetaş</GaleryName>
+      <GaleryCity>İstanbul</GaleryCity>
+      <GaleryDistrict>Beylikdüzü</GaleryDistrict>
+      <CarList>
+        <Car>
+          <CarId>1</CarId>
+          <CarBrand>sfdgfd</CarBrand>
+          <CarModel>sdfsdf</CarModel>
+          <CarColor>black</CarColor>
+          <CarPrice>12354</CarPrice>
+        </Car>
+      </CarList>
+    </Galery>
+    <Galery>
+      <GaleryName>Otosan</GaleryName>
+      <GaleryCity>İstanbul</GaleryCity>
+      <GaleryDistrict>Beşiktaş</GaleryDistrict>
+      <CarList />
+    </Galery>
+    <Galery>
+      <GaleryName>Borusan</GaleryName>
+      <GaleryCity>İstanbul</GaleryCity>
+      <GaleryDistrict>Etiler</GaleryDistrict>
+      <CarList />
+    </Galery>
+    <Galery>
+      <GaleryName>Otosan</GaleryName>
+      <GaleryCity>İstanbul</GaleryCity>
+      <GaleryDistrict>Beşiktaş</GaleryDistrict>
+      <CarList />
+    </Galery>
+  </ListGaleries>
+</Galeries>
